@@ -4,7 +4,7 @@
   "app-version": "1.5.0-beta.6",
   "minimum-app-version": "1.5.0",
   "id": "com_pol_emoji_memory",
-  "github": "https://github.com/music/emoji-memory",
+  "github": "https://github.com/Pol-Valentin/emoji-memory",
   "thumbnail": "assets/thumbnail.png",
   "descriptions": {
     "en_US": "A fun memory matching game using animated emojis from Google Noto. Match pairs of animated emoji cards on your Stream Deck!",
