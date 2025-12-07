@@ -1,0 +1,18 @@
+{
+  "name": "Emoji Memory Game",
+  "version": "1.0.0",
+  "app-version": "1.5.0-beta.6",
+  "minimum-app-version": "1.5.0",
+  "id": "com_pol_emoji_memory",
+  "github": "https://github.com/music/emoji-memory",
+  "thumbnail": "assets/thumbnail.png",
+  "descriptions": {
+    "en_US": "A fun memory matching game using animated emojis from Google Noto. Match pairs of animated emoji cards on your Stream Deck!",
+    "fr_FR": "Un jeu de memory amusant utilisant des emojis animes de Google Noto. Associez les paires de cartes emoji sur votre Stream Deck!"
+  },
+  "short-descriptions": {
+    "en_US": "Memory game with animated emojis",
+    "fr_FR": "Jeu de memory avec emojis animes"
+  },
+  "tags": ["Game", "Memory", "Emoji", "Fun"]
+}

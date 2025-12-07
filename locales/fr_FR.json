@@ -1,0 +1,9 @@
+{
+  "plugin.name": "Jeu de Memory Emoji",
+  "actions.startgame.name": "Demarrer",
+  "actions.startgame.label": "Jouer",
+  "actions.memorycard.name": "Carte Memory",
+  "actions.backbutton.name": "Bouton Retour",
+  "actions.backbutton.label": "Retour",
+  "actions.scoredisplay.name": "Affichage Score"
+}

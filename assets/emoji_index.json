@@ -1,0 +1,5932 @@
+[
+  {
+    "codepoint": "1f600",
+    "name": "smile",
+    "tags": [
+      ":smile:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f603",
+    "name": "smile-with-big-eyes",
+    "tags": [
+      ":smile-with-big-eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f604",
+    "name": "grin",
+    "tags": [
+      ":grin:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f601",
+    "name": "grinning",
+    "tags": [
+      ":grinning:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f606",
+    "name": "laughing",
+    "tags": [
+      ":laughing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f605",
+    "name": "grin-sweat",
+    "tags": [
+      ":grin-sweat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f602",
+    "name": "joy",
+    "tags": [
+      ":joy:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f923",
+    "name": "rofl",
+    "tags": [
+      ":rofl:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f62d",
+    "name": "loudly-crying",
+    "tags": [
+      ":loudly-crying:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f609",
+    "name": "wink",
+    "tags": [
+      ":wink:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f617",
+    "name": "kissing",
+    "tags": [
+      ":kissing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f619",
+    "name": "kissing-smiling-eyes",
+    "tags": [
+      ":kissing-smiling-eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f61a",
+    "name": "kissing-closed-eyes",
+    "tags": [
+      ":kissing-closed-eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f618",
+    "name": "kissing-heart",
+    "tags": [
+      ":kissing-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f970",
+    "name": "heart-face",
+    "tags": [
+      ":heart-face:",
+      ":3-hearts:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f60d",
+    "name": "heart-eyes",
+    "tags": [
+      ":heart-eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f929",
+    "name": "star-struck",
+    "tags": [
+      ":star-struck:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f973",
+    "name": "partying-face",
+    "tags": [
+      ":partying-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae0",
+    "name": "melting",
+    "tags": [
+      ":melting:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f643",
+    "name": "upside-down-face",
+    "tags": [
+      ":upside-down-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f642",
+    "name": "slightly-happy",
+    "tags": [
+      ":slightly-happy:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f972",
+    "name": "happy-cry",
+    "tags": [
+      ":happy-cry:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f979",
+    "name": "holding-back-tears",
+    "tags": [
+      ":holding-back-tears:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f60a",
+    "name": "blush",
+    "tags": [
+      ":blush:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "263a_fe0f",
+    "name": "warm-smile",
+    "tags": [
+      ":warm-smile:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f60c",
+    "name": "relieved",
+    "tags": [
+      ":relieved:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f642_200d_2195_fe0f",
+    "name": "head-nod",
+    "tags": [
+      ":head-nod:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f642_200d_2194_fe0f",
+    "name": "head-shake",
+    "tags": [
+      ":head-shake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f60f",
+    "name": "smirk",
+    "tags": [
+      ":smirk:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f924",
+    "name": "drool",
+    "tags": [
+      ":drool:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f60b",
+    "name": "yum",
+    "tags": [
+      ":yum:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f61b",
+    "name": "stuck-out-tongue",
+    "tags": [
+      ":stuck-out-tongue:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f61d",
+    "name": "squinting-tongue",
+    "tags": [
+      ":squinting-tongue:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f61c",
+    "name": "winky-tongue",
+    "tags": [
+      ":winky-tongue:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f92a",
+    "name": "zany-face",
+    "tags": [
+      ":zany-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f974",
+    "name": "woozy",
+    "tags": [
+      ":woozy:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f614",
+    "name": "pensive",
+    "tags": [
+      ":pensive:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f97a",
+    "name": "pleading",
+    "tags": [
+      ":pleading:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f62c",
+    "name": "grimacing",
+    "tags": [
+      ":grimacing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f611",
+    "name": "expressionless",
+    "tags": [
+      ":expressionless:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f610",
+    "name": "neutral-face",
+    "tags": [
+      ":neutral-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f636",
+    "name": "mouth-none",
+    "tags": [
+      ":mouth-none:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f636_200d_1f32b_fe0f",
+    "name": "face-in-clouds",
+    "tags": [
+      ":face-in-clouds:",
+      ":lost:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae5",
+    "name": "dotted-line-face",
+    "tags": [
+      ":dotted-line-face:",
+      ":invisible:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f910",
+    "name": "zipper-face",
+    "tags": [
+      ":zipper-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae1",
+    "name": "salute",
+    "tags": [
+      ":salute:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f914",
+    "name": "thinking-face",
+    "tags": [
+      ":thinking-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f92b",
+    "name": "shushing-face",
+    "tags": [
+      ":shushing-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae2",
+    "name": "hand-over-mouth",
+    "tags": [
+      ":hand-over-mouth:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f92d",
+    "name": "smiling-eyes-with-hand-over-mouth",
+    "tags": [
+      ":smiling-eyes-with-hand-over-mouth:",
+      ":chuckling:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f971",
+    "name": "yawn",
+    "tags": [
+      ":yawn:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f917",
+    "name": "hug-face",
+    "tags": [
+      ":hug-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae3",
+    "name": "peeking",
+    "tags": [
+      ":peeking:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f631",
+    "name": "screaming",
+    "tags": [
+      ":screaming:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f928",
+    "name": "raised-eyebrow",
+    "tags": [
+      ":raised-eyebrow:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9d0",
+    "name": "monocle",
+    "tags": [
+      ":monocle:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f612",
+    "name": "unamused",
+    "tags": [
+      ":unamused:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f644",
+    "name": "rolling-eyes",
+    "tags": [
+      ":rolling-eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f62e_200d_1f4a8",
+    "name": "exhale",
+    "tags": [
+      ":exhale:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f624",
+    "name": "triumph",
+    "tags": [
+      ":triumph:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f620",
+    "name": "angry",
+    "tags": [
+      ":angry:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f621",
+    "name": "rage",
+    "tags": [
+      ":rage:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f92c",
+    "name": "cursing",
+    "tags": [
+      ":cursing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f61e",
+    "name": "sad",
+    "tags": [
+      ":sad:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f613",
+    "name": "sweat",
+    "tags": [
+      ":sweat:",
+      ":downcast:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f61f",
+    "name": "worried",
+    "tags": [
+      ":worried:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f625",
+    "name": "concerned",
+    "tags": [
+      ":concerned:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f622",
+    "name": "cry",
+    "tags": [
+      ":cry:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "2639_fe0f",
+    "name": "big-frown",
+    "tags": [
+      ":big-frown:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f641",
+    "name": "frown",
+    "tags": [
+      ":frown:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae4",
+    "name": "diagonal-mouth",
+    "tags": [
+      ":diagonal-mouth:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f615",
+    "name": "slightly-frowning",
+    "tags": [
+      ":slightly-frowning:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f630",
+    "name": "anxious-with-sweat",
+    "tags": [
+      ":anxious-with-sweat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f628",
+    "name": "scared",
+    "tags": [
+      ":scared:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f627",
+    "name": "anguished",
+    "tags": [
+      ":anguished:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f626",
+    "name": "gasp",
+    "tags": [
+      ":gasp:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f62e",
+    "name": "mouth-open",
+    "tags": [
+      ":mouth-open:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f62f",
+    "name": "surprised",
+    "tags": [
+      ":surprised:",
+      ":hushed:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f632",
+    "name": "astonished",
+    "tags": [
+      ":astonished:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f633",
+    "name": "flushed",
+    "tags": [
+      ":flushed:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f92f",
+    "name": "mind-blown",
+    "tags": [
+      ":mind-blown:",
+      ":exploding-head:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f616",
+    "name": "scrunched-mouth",
+    "tags": [
+      ":scrunched-mouth:",
+      ":confounded:",
+      ":zigzag-mouth:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f623",
+    "name": "scrunched-eyes",
+    "tags": [
+      ":scrunched-eyes:",
+      ":persevering:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f629",
+    "name": "weary",
+    "tags": [
+      ":weary:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f62b",
+    "name": "distraught",
+    "tags": [
+      ":distraught:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f635",
+    "name": "x-eyes",
+    "tags": [
+      ":x-eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f635_200d_1f4ab",
+    "name": "dizzy-face",
+    "tags": [
+      ":dizzy-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae8",
+    "name": "shaking-face",
+    "tags": [
+      ":shaking-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f976",
+    "name": "cold-face",
+    "tags": [
+      ":cold-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f975",
+    "name": "hot-face",
+    "tags": [
+      ":hot-face:",
+      ":sweat-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f922",
+    "name": "sick",
+    "tags": [
+      ":sick:",
+      ":nauseated:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f92e",
+    "name": "vomit",
+    "tags": [
+      ":vomit:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae9",
+    "name": "tired",
+    "tags": [
+      ":tired:",
+      ":bags-under-eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f634",
+    "name": "sleep",
+    "tags": [
+      ":sleep:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f62a",
+    "name": "sleepy",
+    "tags": [
+      ":sleepy:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f927",
+    "name": "sneeze",
+    "tags": [
+      ":sneeze:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f912",
+    "name": "thermometer-face",
+    "tags": [
+      ":thermometer-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f915",
+    "name": "bandage-face",
+    "tags": [
+      ":bandage-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f637",
+    "name": "mask",
+    "tags": [
+      ":mask:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f925",
+    "name": "liar",
+    "tags": [
+      ":liar:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f607",
+    "name": "halo",
+    "tags": [
+      ":halo:",
+      ":innocent:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f920",
+    "name": "cowboy",
+    "tags": [
+      ":cowboy:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f911",
+    "name": "money-face",
+    "tags": [
+      ":money-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f913",
+    "name": "nerd-face",
+    "tags": [
+      ":nerd-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f60e",
+    "name": "sunglasses-face",
+    "tags": [
+      ":sunglasses-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f978",
+    "name": "disguise",
+    "tags": [
+      ":disguise:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f921",
+    "name": "clown",
+    "tags": [
+      ":clown:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4a9",
+    "name": "poop",
+    "tags": [
+      ":poop:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f608",
+    "name": "imp-smile",
+    "tags": [
+      ":imp-smile:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f47f",
+    "name": "imp-frown",
+    "tags": [
+      ":imp-frown:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f47b",
+    "name": "ghost",
+    "tags": [
+      ":ghost:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f480",
+    "name": "skull",
+    "tags": [
+      ":skull:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "2603_fe0f",
+    "name": "snowman-with-snow",
+    "tags": [
+      ":snowman-with-snow:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "26c4",
+    "name": "snowman",
+    "tags": [
+      ":snowman:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f383",
+    "name": "jack-o-lantern",
+    "tags": [
+      ":jack-o-lantern:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f916",
+    "name": "robot",
+    "tags": [
+      ":robot:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f47d",
+    "name": "alien",
+    "tags": [
+      ":alien:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f47e",
+    "name": "alien-monster",
+    "tags": [
+      ":alien-monster:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f31e",
+    "name": "sun-with-face",
+    "tags": [
+      ":sun-with-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f31b",
+    "name": "moon-face-first-quarter",
+    "tags": [
+      ":moon-face-first-quarter:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f31c",
+    "name": "moon-face-last-quarter",
+    "tags": [
+      ":moon-face-last-quarter:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f63a",
+    "name": "smiley-cat",
+    "tags": [
+      ":smiley-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f638",
+    "name": "smile-cat",
+    "tags": [
+      ":smile-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f639",
+    "name": "joy-cat",
+    "tags": [
+      ":joy-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f63b",
+    "name": "heart-eyes-cat",
+    "tags": [
+      ":heart-eyes-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f63c",
+    "name": "smirk-cat",
+    "tags": [
+      ":smirk-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f63d",
+    "name": "kissing-cat",
+    "tags": [
+      ":kissing-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f640",
+    "name": "scream-cat",
+    "tags": [
+      ":scream-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f63f",
+    "name": "crying-cat-face",
+    "tags": [
+      ":crying-cat-face:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f63e",
+    "name": "pouting-cat",
+    "tags": [
+      ":pouting-cat:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f648",
+    "name": "see-no-evil-monkey",
+    "tags": [
+      ":see-no-evil-monkey:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f649",
+    "name": "hear-no-evil-monkey",
+    "tags": [
+      ":hear-no-evil-monkey:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64a",
+    "name": "speak-no-evil-monkey",
+    "tags": [
+      ":speak-no-evil-monkey:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f31f",
+    "name": "glowing-star",
+    "tags": [
+      ":glowing-star:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "2728",
+    "name": "sparkles",
+    "tags": [
+      ":sparkles:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "26a1",
+    "name": "electricity",
+    "tags": [
+      ":electricity:",
+      ":zap:",
+      ":lightning:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4a5",
+    "name": "collision",
+    "tags": [
+      ":collision:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f525",
+    "name": "fire",
+    "tags": [
+      ":fire:",
+      ":burn:",
+      ":lit:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4af",
+    "name": "100",
+    "tags": [
+      ":100:",
+      ":one-hundred:",
+      ":hundred:",
+      ":points:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f389",
+    "name": "party-popper",
+    "tags": [
+      ":party-popper:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f38a",
+    "name": "confetti-ball",
+    "tags": [
+      ":confetti-ball:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "2764_fe0f",
+    "name": "red-heart",
+    "tags": [
+      ":red-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9e1",
+    "name": "orange-heart",
+    "tags": [
+      ":orange-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f49b",
+    "name": "yellow-heart",
+    "tags": [
+      ":yellow-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f49a",
+    "name": "green-heart",
+    "tags": [
+      ":green-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fa75",
+    "name": "light-blue-heart",
+    "tags": [
+      ":light-blue-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f499",
+    "name": "blue-heart",
+    "tags": [
+      ":blue-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f49c",
+    "name": "purple-heart",
+    "tags": [
+      ":purple-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90e",
+    "name": "brown-heart",
+    "tags": [
+      ":brown-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f5a4",
+    "name": "black-heart",
+    "tags": [
+      ":black-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fa76",
+    "name": "grey-heart",
+    "tags": [
+      ":grey-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90d",
+    "name": "white-heart",
+    "tags": [
+      ":white-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fa77",
+    "name": "pink-heart",
+    "tags": [
+      ":pink-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f498",
+    "name": "cupid",
+    "tags": [
+      ":cupid:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f49d",
+    "name": "gift-heart",
+    "tags": [
+      ":gift-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f496",
+    "name": "sparkling-heart",
+    "tags": [
+      ":sparkling-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f497",
+    "name": "heart-grow",
+    "tags": [
+      ":heart-grow:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f493",
+    "name": "beating-heart",
+    "tags": [
+      ":beating-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f49e",
+    "name": "revolving-hearts",
+    "tags": [
+      ":revolving-hearts:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f495",
+    "name": "two-hearts",
+    "tags": [
+      ":two-hearts:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f48c",
+    "name": "love-letter",
+    "tags": [
+      ":love-letter:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f49f",
+    "name": "heart-box",
+    "tags": [
+      ":heart-box:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "2763_fe0f",
+    "name": "heart-exclamation-point",
+    "tags": [
+      ":heart-exclamation-point:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "2764_fe0f_200d_1fa79",
+    "name": "bandaged-heart",
+    "tags": [
+      ":bandaged-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f494",
+    "name": "broken-heart",
+    "tags": [
+      ":broken-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "2764_fe0f_200d_1f525",
+    "name": "fire-heart",
+    "tags": [
+      ":fire-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f48b",
+    "name": "kiss",
+    "tags": [
+      ":kiss:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f463",
+    "name": "footprints",
+    "tags": [
+      ":footprints:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fac6",
+    "name": "fingerprint",
+    "tags": [
+      ":fingerprint:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fac0",
+    "name": "anatomical-heart",
+    "tags": [
+      ":anatomical-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fa78",
+    "name": "blood",
+    "tags": [
+      ":blood:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9a0",
+    "name": "microbe",
+    "tags": [
+      ":microbe:",
+      ":virus:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f440",
+    "name": "eyes",
+    "tags": [
+      ":eyes:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f441_fe0f",
+    "name": "eye",
+    "tags": [
+      ":eye:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1fae6",
+    "name": "biting-lip",
+    "tags": [
+      ":biting-lip:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f443",
+    "name": "nose",
+    "tags": [
+      ":nose:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f443_1f3fb",
+    "name": "nose",
+    "tags": [
+      ":nose:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f443_1f3fc",
+    "name": "nose",
+    "tags": [
+      ":nose:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f443_1f3fd",
+    "name": "nose",
+    "tags": [
+      ":nose:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f443_1f3fe",
+    "name": "nose",
+    "tags": [
+      ":nose:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f443_1f3ff",
+    "name": "nose",
+    "tags": [
+      ":nose:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f442",
+    "name": "ear",
+    "tags": [
+      ":ear:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f442_1f3fb",
+    "name": "ear",
+    "tags": [
+      ":ear:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f442_1f3fc",
+    "name": "ear",
+    "tags": [
+      ":ear:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f442_1f3fd",
+    "name": "ear",
+    "tags": [
+      ":ear:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f442_1f3fe",
+    "name": "ear",
+    "tags": [
+      ":ear:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f442_1f3ff",
+    "name": "ear",
+    "tags": [
+      ":ear:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9bb",
+    "name": "hearing-aid",
+    "tags": [
+      ":hearing-aid:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9bb_1f3fb",
+    "name": "hearing-aid",
+    "tags": [
+      ":hearing-aid:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9bb_1f3fc",
+    "name": "hearing-aid",
+    "tags": [
+      ":hearing-aid:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9bb_1f3fd",
+    "name": "hearing-aid",
+    "tags": [
+      ":hearing-aid:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9bb_1f3fe",
+    "name": "hearing-aid",
+    "tags": [
+      ":hearing-aid:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9bb_1f3ff",
+    "name": "hearing-aid",
+    "tags": [
+      ":hearing-aid:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b6",
+    "name": "foot",
+    "tags": [
+      ":foot:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b6_1f3fb",
+    "name": "foot",
+    "tags": [
+      ":foot:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b6_1f3fc",
+    "name": "foot",
+    "tags": [
+      ":foot:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b6_1f3fd",
+    "name": "foot",
+    "tags": [
+      ":foot:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b6_1f3fe",
+    "name": "foot",
+    "tags": [
+      ":foot:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b6_1f3ff",
+    "name": "foot",
+    "tags": [
+      ":foot:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b5",
+    "name": "leg",
+    "tags": [
+      ":leg:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b5_1f3fb",
+    "name": "leg",
+    "tags": [
+      ":leg:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b5_1f3fc",
+    "name": "leg",
+    "tags": [
+      ":leg:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b5_1f3fd",
+    "name": "leg",
+    "tags": [
+      ":leg:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b5_1f3fe",
+    "name": "leg",
+    "tags": [
+      ":leg:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9b5_1f3ff",
+    "name": "leg",
+    "tags": [
+      ":leg:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9bf",
+    "name": "leg-mechanical",
+    "tags": [
+      ":leg-mechanical:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f9be",
+    "name": "arm-mechanical",
+    "tags": [
+      ":arm-mechanical:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4aa",
+    "name": "muscle",
+    "tags": [
+      ":muscle:",
+      ":flex:",
+      ":bicep:",
+      ":strong:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4aa_1f3fb",
+    "name": "muscle",
+    "tags": [
+      ":muscle:",
+      ":flex:",
+      ":bicep:",
+      ":strong:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4aa_1f3fc",
+    "name": "muscle",
+    "tags": [
+      ":muscle:",
+      ":flex:",
+      ":bicep:",
+      ":strong:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4aa_1f3fd",
+    "name": "muscle",
+    "tags": [
+      ":muscle:",
+      ":flex:",
+      ":bicep:",
+      ":strong:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4aa_1f3fe",
+    "name": "muscle",
+    "tags": [
+      ":muscle:",
+      ":flex:",
+      ":bicep:",
+      ":strong:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f4aa_1f3ff",
+    "name": "muscle",
+    "tags": [
+      ":muscle:",
+      ":flex:",
+      ":bicep:",
+      ":strong:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44f",
+    "name": "clap",
+    "tags": [
+      ":clap:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44f_1f3fb",
+    "name": "clap",
+    "tags": [
+      ":clap:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44f_1f3fc",
+    "name": "clap",
+    "tags": [
+      ":clap:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44f_1f3fd",
+    "name": "clap",
+    "tags": [
+      ":clap:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44f_1f3fe",
+    "name": "clap",
+    "tags": [
+      ":clap:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44f_1f3ff",
+    "name": "clap",
+    "tags": [
+      ":clap:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44d",
+    "name": "thumbs-up",
+    "tags": [
+      ":thumbs-up:",
+      ":+1:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44d_1f3fb",
+    "name": "thumbs-up",
+    "tags": [
+      ":thumbs-up:",
+      ":+1:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44d_1f3fc",
+    "name": "thumbs-up",
+    "tags": [
+      ":thumbs-up:",
+      ":+1:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44d_1f3fd",
+    "name": "thumbs-up",
+    "tags": [
+      ":thumbs-up:",
+      ":+1:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44d_1f3fe",
+    "name": "thumbs-up",
+    "tags": [
+      ":thumbs-up:",
+      ":+1:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44d_1f3ff",
+    "name": "thumbs-up",
+    "tags": [
+      ":thumbs-up:",
+      ":+1:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44e",
+    "name": "thumbs-down",
+    "tags": [
+      ":thumbs-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44e_1f3fb",
+    "name": "thumbs-down",
+    "tags": [
+      ":thumbs-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44e_1f3fc",
+    "name": "thumbs-down",
+    "tags": [
+      ":thumbs-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44e_1f3fd",
+    "name": "thumbs-down",
+    "tags": [
+      ":thumbs-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44e_1f3fe",
+    "name": "thumbs-down",
+    "tags": [
+      ":thumbs-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44e_1f3ff",
+    "name": "thumbs-down",
+    "tags": [
+      ":thumbs-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf6",
+    "name": "heart-hands",
+    "tags": [
+      ":heart-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf6_1f3fb",
+    "name": "heart-hands",
+    "tags": [
+      ":heart-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf6_1f3fc",
+    "name": "heart-hands",
+    "tags": [
+      ":heart-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf6_1f3fd",
+    "name": "heart-hands",
+    "tags": [
+      ":heart-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf6_1f3fe",
+    "name": "heart-hands",
+    "tags": [
+      ":heart-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf6_1f3ff",
+    "name": "heart-hands",
+    "tags": [
+      ":heart-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64c",
+    "name": "raising-hands",
+    "tags": [
+      ":raising-hands:",
+      ":hooray:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64c_1f3fb",
+    "name": "raising-hands",
+    "tags": [
+      ":raising-hands:",
+      ":hooray:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64c_1f3fc",
+    "name": "raising-hands",
+    "tags": [
+      ":raising-hands:",
+      ":hooray:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64c_1f3fd",
+    "name": "raising-hands",
+    "tags": [
+      ":raising-hands:",
+      ":hooray:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64c_1f3fe",
+    "name": "raising-hands",
+    "tags": [
+      ":raising-hands:",
+      ":hooray:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64c_1f3ff",
+    "name": "raising-hands",
+    "tags": [
+      ":raising-hands:",
+      ":hooray:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f450",
+    "name": "open-hands",
+    "tags": [
+      ":open-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f450_1f3fb",
+    "name": "open-hands",
+    "tags": [
+      ":open-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f450_1f3fc",
+    "name": "open-hands",
+    "tags": [
+      ":open-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f450_1f3fd",
+    "name": "open-hands",
+    "tags": [
+      ":open-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f450_1f3fe",
+    "name": "open-hands",
+    "tags": [
+      ":open-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f450_1f3ff",
+    "name": "open-hands",
+    "tags": [
+      ":open-hands:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f932",
+    "name": "palms-up",
+    "tags": [
+      ":palms-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f932_1f3fb",
+    "name": "palms-up",
+    "tags": [
+      ":palms-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f932_1f3fc",
+    "name": "palms-up",
+    "tags": [
+      ":palms-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f932_1f3fd",
+    "name": "palms-up",
+    "tags": [
+      ":palms-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f932_1f3fe",
+    "name": "palms-up",
+    "tags": [
+      ":palms-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f932_1f3ff",
+    "name": "palms-up",
+    "tags": [
+      ":palms-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91c",
+    "name": "fist-rightwards",
+    "tags": [
+      ":fist-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91c_1f3fb",
+    "name": "fist-rightwards",
+    "tags": [
+      ":fist-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91c_1f3fc",
+    "name": "fist-rightwards",
+    "tags": [
+      ":fist-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91c_1f3fd",
+    "name": "fist-rightwards",
+    "tags": [
+      ":fist-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91c_1f3fe",
+    "name": "fist-rightwards",
+    "tags": [
+      ":fist-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91c_1f3ff",
+    "name": "fist-rightwards",
+    "tags": [
+      ":fist-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91b",
+    "name": "fist-leftwards",
+    "tags": [
+      ":fist-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91b_1f3fb",
+    "name": "fist-leftwards",
+    "tags": [
+      ":fist-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91b_1f3fc",
+    "name": "fist-leftwards",
+    "tags": [
+      ":fist-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91b_1f3fd",
+    "name": "fist-leftwards",
+    "tags": [
+      ":fist-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91b_1f3fe",
+    "name": "fist-leftwards",
+    "tags": [
+      ":fist-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91b_1f3ff",
+    "name": "fist-leftwards",
+    "tags": [
+      ":fist-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270a",
+    "name": "raised-fist",
+    "tags": [
+      ":raised-fist:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270a_1f3fb",
+    "name": "raised-fist",
+    "tags": [
+      ":raised-fist:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270a_1f3fc",
+    "name": "raised-fist",
+    "tags": [
+      ":raised-fist:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270a_1f3fd",
+    "name": "raised-fist",
+    "tags": [
+      ":raised-fist:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270a_1f3fe",
+    "name": "raised-fist",
+    "tags": [
+      ":raised-fist:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270a_1f3ff",
+    "name": "raised-fist",
+    "tags": [
+      ":raised-fist:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44a",
+    "name": "fist",
+    "tags": [
+      ":fist:",
+      ":bump:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44a_1f3fb",
+    "name": "fist",
+    "tags": [
+      ":fist:",
+      ":bump:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44a_1f3fc",
+    "name": "fist",
+    "tags": [
+      ":fist:",
+      ":bump:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44a_1f3fd",
+    "name": "fist",
+    "tags": [
+      ":fist:",
+      ":bump:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44a_1f3fe",
+    "name": "fist",
+    "tags": [
+      ":fist:",
+      ":bump:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44a_1f3ff",
+    "name": "fist",
+    "tags": [
+      ":fist:",
+      ":bump:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf3",
+    "name": "palm-down",
+    "tags": [
+      ":palm-down:",
+      ":drop:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf3_1f3fb",
+    "name": "palm-down",
+    "tags": [
+      ":palm-down:",
+      ":drop:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf3_1f3fc",
+    "name": "palm-down",
+    "tags": [
+      ":palm-down:",
+      ":drop:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf3_1f3fd",
+    "name": "palm-down",
+    "tags": [
+      ":palm-down:",
+      ":drop:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf3_1f3fe",
+    "name": "palm-down",
+    "tags": [
+      ":palm-down:",
+      ":drop:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf3_1f3ff",
+    "name": "palm-down",
+    "tags": [
+      ":palm-down:",
+      ":drop:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf4",
+    "name": "palm-up",
+    "tags": [
+      ":palm-up:",
+      ":throw:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf4_1f3fb",
+    "name": "palm-up",
+    "tags": [
+      ":palm-up:",
+      ":throw:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf4_1f3fc",
+    "name": "palm-up",
+    "tags": [
+      ":palm-up:",
+      ":throw:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf4_1f3fd",
+    "name": "palm-up",
+    "tags": [
+      ":palm-up:",
+      ":throw:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf4_1f3fe",
+    "name": "palm-up",
+    "tags": [
+      ":palm-up:",
+      ":throw:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf4_1f3ff",
+    "name": "palm-up",
+    "tags": [
+      ":palm-up:",
+      ":throw:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1",
+    "name": "rightwards-hand",
+    "tags": [
+      ":rightwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fb",
+    "name": "rightwards-hand",
+    "tags": [
+      ":rightwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fc",
+    "name": "rightwards-hand",
+    "tags": [
+      ":rightwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fd",
+    "name": "rightwards-hand",
+    "tags": [
+      ":rightwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fe",
+    "name": "rightwards-hand",
+    "tags": [
+      ":rightwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3ff",
+    "name": "rightwards-hand",
+    "tags": [
+      ":rightwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf2",
+    "name": "leftwards-hand",
+    "tags": [
+      ":leftwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf2_1f3fb",
+    "name": "leftwards-hand",
+    "tags": [
+      ":leftwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf2_1f3fc",
+    "name": "leftwards-hand",
+    "tags": [
+      ":leftwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf2_1f3fd",
+    "name": "leftwards-hand",
+    "tags": [
+      ":leftwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf2_1f3fe",
+    "name": "leftwards-hand",
+    "tags": [
+      ":leftwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf2_1f3ff",
+    "name": "leftwards-hand",
+    "tags": [
+      ":leftwards-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf8",
+    "name": "push-rightwards",
+    "tags": [
+      ":push-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf8_1f3fb",
+    "name": "push-rightwards",
+    "tags": [
+      ":push-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf8_1f3fc",
+    "name": "push-rightwards",
+    "tags": [
+      ":push-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf8_1f3fd",
+    "name": "push-rightwards",
+    "tags": [
+      ":push-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf8_1f3fe",
+    "name": "push-rightwards",
+    "tags": [
+      ":push-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf8_1f3ff",
+    "name": "push-rightwards",
+    "tags": [
+      ":push-rightwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf7",
+    "name": "push-leftwards",
+    "tags": [
+      ":push-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf7_1f3fb",
+    "name": "push-leftwards",
+    "tags": [
+      ":push-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf7_1f3fc",
+    "name": "push-leftwards",
+    "tags": [
+      ":push-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf7_1f3fd",
+    "name": "push-leftwards",
+    "tags": [
+      ":push-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf7_1f3fe",
+    "name": "push-leftwards",
+    "tags": [
+      ":push-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf7_1f3ff",
+    "name": "push-leftwards",
+    "tags": [
+      ":push-leftwards:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44b",
+    "name": "wave",
+    "tags": [
+      ":wave:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44b_1f3fb",
+    "name": "wave",
+    "tags": [
+      ":wave:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44b_1f3fc",
+    "name": "wave",
+    "tags": [
+      ":wave:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44b_1f3fd",
+    "name": "wave",
+    "tags": [
+      ":wave:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44b_1f3fe",
+    "name": "wave",
+    "tags": [
+      ":wave:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44b_1f3ff",
+    "name": "wave",
+    "tags": [
+      ":wave:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91a",
+    "name": "back-hand",
+    "tags": [
+      ":back-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91a_1f3fb",
+    "name": "back-hand",
+    "tags": [
+      ":back-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91a_1f3fc",
+    "name": "back-hand",
+    "tags": [
+      ":back-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91a_1f3fd",
+    "name": "back-hand",
+    "tags": [
+      ":back-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91a_1f3fe",
+    "name": "back-hand",
+    "tags": [
+      ":back-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91a_1f3ff",
+    "name": "back-hand",
+    "tags": [
+      ":back-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f590_fe0f",
+    "name": "palm",
+    "tags": [
+      ":palm:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f590_1f3fb",
+    "name": "palm",
+    "tags": [
+      ":palm:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f590_1f3fc",
+    "name": "palm",
+    "tags": [
+      ":palm:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f590_1f3fd",
+    "name": "palm",
+    "tags": [
+      ":palm:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f590_1f3fe",
+    "name": "palm",
+    "tags": [
+      ":palm:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f590_1f3ff",
+    "name": "palm",
+    "tags": [
+      ":palm:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270b",
+    "name": "raised-hand",
+    "tags": [
+      ":raised-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270b_1f3fb",
+    "name": "raised-hand",
+    "tags": [
+      ":raised-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270b_1f3fc",
+    "name": "raised-hand",
+    "tags": [
+      ":raised-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270b_1f3fd",
+    "name": "raised-hand",
+    "tags": [
+      ":raised-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270b_1f3fe",
+    "name": "raised-hand",
+    "tags": [
+      ":raised-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270b_1f3ff",
+    "name": "raised-hand",
+    "tags": [
+      ":raised-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f596",
+    "name": "vulcan",
+    "tags": [
+      ":vulcan:",
+      ":prosper:",
+      ":spock:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f596_1f3fb",
+    "name": "vulcan",
+    "tags": [
+      ":vulcan:",
+      ":prosper:",
+      ":spock:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f596_1f3fc",
+    "name": "vulcan",
+    "tags": [
+      ":vulcan:",
+      ":prosper:",
+      ":spock:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f596_1f3fd",
+    "name": "vulcan",
+    "tags": [
+      ":vulcan:",
+      ":prosper:",
+      ":spock:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f596_1f3fe",
+    "name": "vulcan",
+    "tags": [
+      ":vulcan:",
+      ":prosper:",
+      ":spock:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f596_1f3ff",
+    "name": "vulcan",
+    "tags": [
+      ":vulcan:",
+      ":prosper:",
+      ":spock:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91f",
+    "name": "love-you-gesture",
+    "tags": [
+      ":love-you-gesture:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91f_1f3fb",
+    "name": "love-you-gesture",
+    "tags": [
+      ":love-you-gesture:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91f_1f3fc",
+    "name": "love-you-gesture",
+    "tags": [
+      ":love-you-gesture:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91f_1f3fd",
+    "name": "love-you-gesture",
+    "tags": [
+      ":love-you-gesture:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91f_1f3fe",
+    "name": "love-you-gesture",
+    "tags": [
+      ":love-you-gesture:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91f_1f3ff",
+    "name": "love-you-gesture",
+    "tags": [
+      ":love-you-gesture:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f918",
+    "name": "metal",
+    "tags": [
+      ":metal:",
+      ":horns:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f918_1f3fb",
+    "name": "metal",
+    "tags": [
+      ":metal:",
+      ":horns:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f918_1f3fc",
+    "name": "metal",
+    "tags": [
+      ":metal:",
+      ":horns:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f918_1f3fd",
+    "name": "metal",
+    "tags": [
+      ":metal:",
+      ":horns:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f918_1f3fe",
+    "name": "metal",
+    "tags": [
+      ":metal:",
+      ":horns:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f918_1f3ff",
+    "name": "metal",
+    "tags": [
+      ":metal:",
+      ":horns:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270c_fe0f",
+    "name": "victory",
+    "tags": [
+      ":victory:",
+      ":v:",
+      ":peace-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270c_1f3fb",
+    "name": "victory",
+    "tags": [
+      ":victory:",
+      ":v:",
+      ":peace-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270c_1f3fc",
+    "name": "victory",
+    "tags": [
+      ":victory:",
+      ":v:",
+      ":peace-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270c_1f3fd",
+    "name": "victory",
+    "tags": [
+      ":victory:",
+      ":v:",
+      ":peace-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270c_1f3fe",
+    "name": "victory",
+    "tags": [
+      ":victory:",
+      ":v:",
+      ":peace-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270c_1f3ff",
+    "name": "victory",
+    "tags": [
+      ":victory:",
+      ":v:",
+      ":peace-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91e",
+    "name": "crossed-fingers",
+    "tags": [
+      ":crossed-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91e_1f3fb",
+    "name": "crossed-fingers",
+    "tags": [
+      ":crossed-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91e_1f3fc",
+    "name": "crossed-fingers",
+    "tags": [
+      ":crossed-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91e_1f3fd",
+    "name": "crossed-fingers",
+    "tags": [
+      ":crossed-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91e_1f3fe",
+    "name": "crossed-fingers",
+    "tags": [
+      ":crossed-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91e_1f3ff",
+    "name": "crossed-fingers",
+    "tags": [
+      ":crossed-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf0",
+    "name": "hand-with-index-finger-and-thumb-crossed",
+    "tags": [
+      ":hand-with-index-finger-and-thumb-crossed:",
+      ":snap:",
+      ":finger-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf0_1f3fb",
+    "name": "hand-with-index-finger-and-thumb-crossed",
+    "tags": [
+      ":hand-with-index-finger-and-thumb-crossed:",
+      ":snap:",
+      ":finger-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf0_1f3fc",
+    "name": "hand-with-index-finger-and-thumb-crossed",
+    "tags": [
+      ":hand-with-index-finger-and-thumb-crossed:",
+      ":snap:",
+      ":finger-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf0_1f3fd",
+    "name": "hand-with-index-finger-and-thumb-crossed",
+    "tags": [
+      ":hand-with-index-finger-and-thumb-crossed:",
+      ":snap:",
+      ":finger-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf0_1f3fe",
+    "name": "hand-with-index-finger-and-thumb-crossed",
+    "tags": [
+      ":hand-with-index-finger-and-thumb-crossed:",
+      ":snap:",
+      ":finger-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf0_1f3ff",
+    "name": "hand-with-index-finger-and-thumb-crossed",
+    "tags": [
+      ":hand-with-index-finger-and-thumb-crossed:",
+      ":snap:",
+      ":finger-heart:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f919",
+    "name": "call-me-hand",
+    "tags": [
+      ":call-me-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f919_1f3fb",
+    "name": "call-me-hand",
+    "tags": [
+      ":call-me-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f919_1f3fc",
+    "name": "call-me-hand",
+    "tags": [
+      ":call-me-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f919_1f3fd",
+    "name": "call-me-hand",
+    "tags": [
+      ":call-me-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f919_1f3fe",
+    "name": "call-me-hand",
+    "tags": [
+      ":call-me-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f919_1f3ff",
+    "name": "call-me-hand",
+    "tags": [
+      ":call-me-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90c",
+    "name": "pinched-fingers",
+    "tags": [
+      ":pinched-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90c_1f3fb",
+    "name": "pinched-fingers",
+    "tags": [
+      ":pinched-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90c_1f3fc",
+    "name": "pinched-fingers",
+    "tags": [
+      ":pinched-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90c_1f3fd",
+    "name": "pinched-fingers",
+    "tags": [
+      ":pinched-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90c_1f3fe",
+    "name": "pinched-fingers",
+    "tags": [
+      ":pinched-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90c_1f3ff",
+    "name": "pinched-fingers",
+    "tags": [
+      ":pinched-fingers:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90f",
+    "name": "pinch",
+    "tags": [
+      ":pinch:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90f_1f3fb",
+    "name": "pinch",
+    "tags": [
+      ":pinch:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90f_1f3fc",
+    "name": "pinch",
+    "tags": [
+      ":pinch:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90f_1f3fd",
+    "name": "pinch",
+    "tags": [
+      ":pinch:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90f_1f3fe",
+    "name": "pinch",
+    "tags": [
+      ":pinch:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f90f_1f3ff",
+    "name": "pinch",
+    "tags": [
+      ":pinch:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44c",
+    "name": "ok",
+    "tags": [
+      ":ok:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44c_1f3fb",
+    "name": "ok",
+    "tags": [
+      ":ok:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44c_1f3fc",
+    "name": "ok",
+    "tags": [
+      ":ok:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44c_1f3fd",
+    "name": "ok",
+    "tags": [
+      ":ok:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44c_1f3fe",
+    "name": "ok",
+    "tags": [
+      ":ok:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f44c_1f3ff",
+    "name": "ok",
+    "tags": [
+      ":ok:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf5",
+    "name": "pointing",
+    "tags": [
+      ":pointing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf5_1f3fb",
+    "name": "pointing",
+    "tags": [
+      ":pointing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf5_1f3fc",
+    "name": "pointing",
+    "tags": [
+      ":pointing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf5_1f3fd",
+    "name": "pointing",
+    "tags": [
+      ":pointing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf5_1f3fe",
+    "name": "pointing",
+    "tags": [
+      ":pointing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf5_1f3ff",
+    "name": "pointing",
+    "tags": [
+      ":pointing:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f449",
+    "name": "point-right",
+    "tags": [
+      ":point-right:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f449_1f3fb",
+    "name": "point-right",
+    "tags": [
+      ":point-right:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f449_1f3fc",
+    "name": "point-right",
+    "tags": [
+      ":point-right:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f449_1f3fd",
+    "name": "point-right",
+    "tags": [
+      ":point-right:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f449_1f3fe",
+    "name": "point-right",
+    "tags": [
+      ":point-right:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f449_1f3ff",
+    "name": "point-right",
+    "tags": [
+      ":point-right:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f448",
+    "name": "point-left",
+    "tags": [
+      ":point-left:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f448_1f3fb",
+    "name": "point-left",
+    "tags": [
+      ":point-left:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f448_1f3fc",
+    "name": "point-left",
+    "tags": [
+      ":point-left:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f448_1f3fd",
+    "name": "point-left",
+    "tags": [
+      ":point-left:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f448_1f3fe",
+    "name": "point-left",
+    "tags": [
+      ":point-left:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f448_1f3ff",
+    "name": "point-left",
+    "tags": [
+      ":point-left:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "261d_fe0f",
+    "name": "index-finger",
+    "tags": [
+      ":index-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "261d_1f3fb",
+    "name": "index-finger",
+    "tags": [
+      ":index-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "261d_1f3fc",
+    "name": "index-finger",
+    "tags": [
+      ":index-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "261d_1f3fd",
+    "name": "index-finger",
+    "tags": [
+      ":index-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "261d_1f3fe",
+    "name": "index-finger",
+    "tags": [
+      ":index-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "261d_1f3ff",
+    "name": "index-finger",
+    "tags": [
+      ":index-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f446",
+    "name": "point-up",
+    "tags": [
+      ":point-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f446_1f3fb",
+    "name": "point-up",
+    "tags": [
+      ":point-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f446_1f3fc",
+    "name": "point-up",
+    "tags": [
+      ":point-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f446_1f3fd",
+    "name": "point-up",
+    "tags": [
+      ":point-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f446_1f3fe",
+    "name": "point-up",
+    "tags": [
+      ":point-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f446_1f3ff",
+    "name": "point-up",
+    "tags": [
+      ":point-up:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f447",
+    "name": "point-down",
+    "tags": [
+      ":point-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f447_1f3fb",
+    "name": "point-down",
+    "tags": [
+      ":point-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f447_1f3fc",
+    "name": "point-down",
+    "tags": [
+      ":point-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f447_1f3fd",
+    "name": "point-down",
+    "tags": [
+      ":point-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f447_1f3fe",
+    "name": "point-down",
+    "tags": [
+      ":point-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f447_1f3ff",
+    "name": "point-down",
+    "tags": [
+      ":point-down:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f595",
+    "name": "middle-finger",
+    "tags": [
+      ":middle-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f595_1f3fb",
+    "name": "middle-finger",
+    "tags": [
+      ":middle-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f595_1f3fc",
+    "name": "middle-finger",
+    "tags": [
+      ":middle-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f595_1f3fd",
+    "name": "middle-finger",
+    "tags": [
+      ":middle-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f595_1f3fe",
+    "name": "middle-finger",
+    "tags": [
+      ":middle-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f595_1f3ff",
+    "name": "middle-finger",
+    "tags": [
+      ":middle-finger:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270d_fe0f",
+    "name": "writing-hand",
+    "tags": [
+      ":writing-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270d_1f3fb",
+    "name": "writing-hand",
+    "tags": [
+      ":writing-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270d_1f3fc",
+    "name": "writing-hand",
+    "tags": [
+      ":writing-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270d_1f3fd",
+    "name": "writing-hand",
+    "tags": [
+      ":writing-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270d_1f3fe",
+    "name": "writing-hand",
+    "tags": [
+      ":writing-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "270d_1f3ff",
+    "name": "writing-hand",
+    "tags": [
+      ":writing-hand:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f933",
+    "name": "selfie",
+    "tags": [
+      ":selfie:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f933_1f3fb",
+    "name": "selfie",
+    "tags": [
+      ":selfie:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f933_1f3fc",
+    "name": "selfie",
+    "tags": [
+      ":selfie:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f933_1f3fd",
+    "name": "selfie",
+    "tags": [
+      ":selfie:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f933_1f3fe",
+    "name": "selfie",
+    "tags": [
+      ":selfie:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f933_1f3ff",
+    "name": "selfie",
+    "tags": [
+      ":selfie:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64f",
+    "name": "folded-hands",
+    "tags": [
+      ":folded-hands:",
+      ":please:",
+      ":pray:",
+      ":hope:",
+      ":wish:",
+      ":thank-you:",
+      ":high-five:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64f_1f3fb",
+    "name": "folded-hands",
+    "tags": [
+      ":folded-hands:",
+      ":please:",
+      ":pray:",
+      ":hope:",
+      ":wish:",
+      ":thank-you:",
+      ":high-five:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64f_1f3fc",
+    "name": "folded-hands",
+    "tags": [
+      ":folded-hands:",
+      ":please:",
+      ":pray:",
+      ":hope:",
+      ":wish:",
+      ":thank-you:",
+      ":high-five:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64f_1f3fd",
+    "name": "folded-hands",
+    "tags": [
+      ":folded-hands:",
+      ":please:",
+      ":pray:",
+      ":hope:",
+      ":wish:",
+      ":thank-you:",
+      ":high-five:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64f_1f3fe",
+    "name": "folded-hands",
+    "tags": [
+      ":folded-hands:",
+      ":please:",
+      ":pray:",
+      ":hope:",
+      ":wish:",
+      ":thank-you:",
+      ":high-five:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f64f_1f3ff",
+    "name": "folded-hands",
+    "tags": [
+      ":folded-hands:",
+      ":please:",
+      ":pray:",
+      ":hope:",
+      ":wish:",
+      ":thank-you:",
+      ":high-five:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f485",
+    "name": "nail-care",
+    "tags": [
+      ":nail-care:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f485_1f3fb",
+    "name": "nail-care",
+    "tags": [
+      ":nail-care:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f485_1f3fc",
+    "name": "nail-care",
+    "tags": [
+      ":nail-care:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f485_1f3fd",
+    "name": "nail-care",
+    "tags": [
+      ":nail-care:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f485_1f3fe",
+    "name": "nail-care",
+    "tags": [
+      ":nail-care:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f485_1f3ff",
+    "name": "nail-care",
+    "tags": [
+      ":nail-care:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91d",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91d_1f3fb",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fb_200d_1faf2_1f3fc",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fb_200d_1faf2_1f3fd",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fb_200d_1faf2_1f3fe",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fb_200d_1faf2_1f3ff",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fc_200d_1faf2_1f3fb",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91d_1f3fc",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fc_200d_1faf2_1f3fd",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fc_200d_1faf2_1f3fe",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fc_200d_1faf2_1f3ff",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fd_200d_1faf2_1f3fb",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fd_200d_1faf2_1f3fc",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91d_1f3fd",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fd_200d_1faf2_1f3fe",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fd_200d_1faf2_1f3ff",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fe_200d_1faf2_1f3fb",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fe_200d_1faf2_1f3fc",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fe_200d_1faf2_1f3fd",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91d_1f3fe",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3fe_200d_1faf2_1f3ff",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3ff_200d_1faf2_1f3fb",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3ff_200d_1faf2_1f3fc",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3ff_200d_1faf2_1f3fd",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1faf1_1f3ff_200d_1faf2_1f3fe",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f91d_1f3ff",
+    "name": "handshake",
+    "tags": [
+      ":handshake:"
+    ],
+    "category": "Smileys and emotions"
+  },
+  {
+    "codepoint": "1f483",
+    "name": "dancer-woman",
+    "tags": [
+      ":dancer-woman:"
+    ],
+    "category": "People"
+  },
+  {
+    "codepoint": "1f483_1f3fb",
+    "name": "dancer-woman",
+    "tags": [
+      ":dancer-woman:"
+    ],
+    "category": "People"
+  },
+  {
+    "codepoint": "1f483_1f3fc",
+    "name": "dancer-woman",
+    "tags": [
+      ":dancer-woman:"
+    ],
+    "category": "People"
+  },
+  {
+    "codepoint": "1f483_1f3fd",
+    "name": "dancer-woman",
+    "tags": [
+      ":dancer-woman:"
+    ],
+    "category": "People"
+  },
+  {
+    "codepoint": "1f483_1f3fe",
+    "name": "dancer-woman",
+    "tags": [
+      ":dancer-woman:"
+    ],
+    "category": "People"
+  },
+  {
+    "codepoint": "1f483_1f3ff",
+    "name": "dancer-woman",
+    "tags": [
+      ":dancer-woman:"
+    ],
+    "category": "People"
+  },
+  {
+    "codepoint": "1f490",
+    "name": "bouquet",
+    "tags": [
+      ":bouquet:",
+      ":flowers:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f339",
+    "name": "rose",
+    "tags": [
+      ":rose:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f940",
+    "name": "wilted-flower",
+    "tags": [
+      ":wilted-flower:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f342",
+    "name": "fallen-leaf",
+    "tags": [
+      ":fallen-leaf:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f331",
+    "name": "plant",
+    "tags": [
+      ":plant:",
+      ":seed:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f343",
+    "name": "leaves",
+    "tags": [
+      ":leaves:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f340",
+    "name": "luck",
+    "tags": [
+      ":luck:",
+      ":four-leaf-clover:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1fabe",
+    "name": "leafless-tree",
+    "tags": [
+      ":leafless-tree:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "2744_fe0f",
+    "name": "snowflake",
+    "tags": [
+      ":snowflake:",
+      ":winter:",
+      ":cold:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f30b",
+    "name": "volcano",
+    "tags": [
+      ":volcano:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f305",
+    "name": "sunrise",
+    "tags": [
+      ":sunrise:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f304",
+    "name": "sunrise-over-mountains",
+    "tags": [
+      ":sunrise-over-mountains:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f308",
+    "name": "rainbow",
+    "tags": [
+      ":rainbow:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1fae7",
+    "name": "bubbles",
+    "tags": [
+      ":bubbles:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f30a",
+    "name": "ocean",
+    "tags": [
+      ":ocean:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f32c_fe0f",
+    "name": "wind-face",
+    "tags": [
+      ":wind-face:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f32a_fe0f",
+    "name": "tornado",
+    "tags": [
+      ":tornado:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f4a7",
+    "name": "droplet",
+    "tags": [
+      ":droplet:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f327_fe0f",
+    "name": "rain-cloud",
+    "tags": [
+      ":rain-cloud:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f329_fe0f",
+    "name": "cloud-with-lightning",
+    "tags": [
+      ":cloud-with-lightning:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f30d",
+    "name": "globe-showing-Europe-Africa",
+    "tags": [
+      ":globe-showing-Europe-Africa:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f30e",
+    "name": "globe-showing-Americas",
+    "tags": [
+      ":globe-showing-Americas:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f30f",
+    "name": "globe-showing-Asia-Australia",
+    "tags": [
+      ":globe-showing-Asia-Australia:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "2604_fe0f",
+    "name": "comet",
+    "tags": [
+      ":comet:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f42e",
+    "name": "cow-face",
+    "tags": [
+      ":cow-face:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f984",
+    "name": "unicorn",
+    "tags": [
+      ":unicorn:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f98e",
+    "name": "lizard",
+    "tags": [
+      ":lizard:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f409",
+    "name": "dragon",
+    "tags": [
+      ":dragon:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f996",
+    "name": "t-rex",
+    "tags": [
+      ":t-rex:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f995",
+    "name": "dinosaur",
+    "tags": [
+      ":dinosaur:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f422",
+    "name": "turtle",
+    "tags": [
+      ":turtle:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f40a",
+    "name": "crocodile",
+    "tags": [
+      ":crocodile:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f40d",
+    "name": "snake",
+    "tags": [
+      ":snake:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f438",
+    "name": "frog",
+    "tags": [
+      ":frog:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f407",
+    "name": "rabbit",
+    "tags": [
+      ":rabbit:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f400",
+    "name": "rat",
+    "tags": [
+      ":rat:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f429",
+    "name": "poodle",
+    "tags": [
+      ":poodle:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f415",
+    "name": "dog",
+    "tags": [
+      ":dog:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f9ae",
+    "name": "guide-dog",
+    "tags": [
+      ":guide-dog:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f415_200d_1f9ba",
+    "name": "service-dog",
+    "tags": [
+      ":service-dog:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f416",
+    "name": "pig",
+    "tags": [
+      ":pig:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f40e",
+    "name": "racehorse",
+    "tags": [
+      ":racehorse:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1facf",
+    "name": "donkey",
+    "tags": [
+      ":donkey:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f402",
+    "name": "ox",
+    "tags": [
+      ":ox:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f410",
+    "name": "goat",
+    "tags": [
+      ":goat:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f998",
+    "name": "kangaroo",
+    "tags": [
+      ":kangaroo:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f405",
+    "name": "tiger",
+    "tags": [
+      ":tiger:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f412",
+    "name": "monkey",
+    "tags": [
+      ":monkey:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f98d",
+    "name": "gorilla",
+    "tags": [
+      ":gorilla:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f9a7",
+    "name": "orangutan",
+    "tags": [
+      ":orangutan:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f43f_fe0f",
+    "name": "chipmunk",
+    "tags": [
+      ":chipmunk:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f9a6",
+    "name": "otter",
+    "tags": [
+      ":otter:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f987",
+    "name": "bat",
+    "tags": [
+      ":bat:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f426",
+    "name": "bird",
+    "tags": [
+      ":bird:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f426_200d_2b1b",
+    "name": "black-bird",
+    "tags": [
+      ":black-bird:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f413",
+    "name": "rooster",
+    "tags": [
+      ":rooster:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f423",
+    "name": "hatching-chick",
+    "tags": [
+      ":hatching-chick:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f424",
+    "name": "baby-chick",
+    "tags": [
+      ":baby-chick:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f425",
+    "name": "hatched-chick",
+    "tags": [
+      ":hatched-chick:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f985",
+    "name": "eagle",
+    "tags": [
+      ":eagle:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f989",
+    "name": "owl",
+    "tags": [
+      ":owl:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f54a_fe0f",
+    "name": "peace",
+    "tags": [
+      ":peace:",
+      ":dove:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1fabf",
+    "name": "goose",
+    "tags": [
+      ":goose:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f99a",
+    "name": "peacock",
+    "tags": [
+      ":peacock:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f426_200d_1f525",
+    "name": "phoenix",
+    "tags": [
+      ":phoenix:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f9ad",
+    "name": "seal",
+    "tags": [
+      ":seal:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f988",
+    "name": "shark",
+    "tags": [
+      ":shark:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f42c",
+    "name": "dolphin",
+    "tags": [
+      ":dolphin:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f433",
+    "name": "whale",
+    "tags": [
+      ":whale:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f41f",
+    "name": "fish",
+    "tags": [
+      ":fish:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f421",
+    "name": "blowfish",
+    "tags": [
+      ":blowfish:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f99e",
+    "name": "lobster",
+    "tags": [
+      ":lobster:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f980",
+    "name": "crab",
+    "tags": [
+      ":crab:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f419",
+    "name": "octopus",
+    "tags": [
+      ":octopus:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1fabc",
+    "name": "jellyfish",
+    "tags": [
+      ":jellyfish:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f982",
+    "name": "scorpion",
+    "tags": [
+      ":scorpion:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f577_fe0f",
+    "name": "spider",
+    "tags": [
+      ":spider:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f40c",
+    "name": "snail",
+    "tags": [
+      ":snail:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f41c",
+    "name": "ant",
+    "tags": [
+      ":ant:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f99f",
+    "name": "mosquito",
+    "tags": [
+      ":mosquito:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1fab3",
+    "name": "cockroach",
+    "tags": [
+      ":cockroach:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1fab0",
+    "name": "fly",
+    "tags": [
+      ":fly:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f41d",
+    "name": "bee",
+    "tags": [
+      ":bee:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f41e",
+    "name": "lady-bug",
+    "tags": [
+      ":lady-bug:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f98b",
+    "name": "butterfly",
+    "tags": [
+      ":butterfly:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f41b",
+    "name": "bug",
+    "tags": [
+      ":bug:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1fab1",
+    "name": "worm",
+    "tags": [
+      ":worm:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f43e",
+    "name": "paw prints",
+    "tags": [
+      ":paw prints:"
+    ],
+    "category": "Animals and nature"
+  },
+  {
+    "codepoint": "1f345",
+    "name": "tomato",
+    "tags": [
+      ":tomato:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1fadc",
+    "name": "root-vegetable",
+    "tags": [
+      ":root-vegetable:",
+      ":beet:",
+      ":turnip:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f373",
+    "name": "cooking",
+    "tags": [
+      ":cooking:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f32f",
+    "name": "burrito",
+    "tags": [
+      ":burrito:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f35d",
+    "name": "spaghetti",
+    "tags": [
+      ":spaghetti:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f35c",
+    "name": "steaming-bowl",
+    "tags": [
+      ":steaming-bowl:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f37f",
+    "name": "popcorn",
+    "tags": [
+      ":popcorn:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "2615",
+    "name": "hot-beverage",
+    "tags": [
+      ":hot-beverage:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f37b",
+    "name": "clinking-beer-mugs",
+    "tags": [
+      ":clinking-beer-mugs:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f942",
+    "name": "clinking-glasses",
+    "tags": [
+      ":clinking-glasses:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f37e",
+    "name": "bottle-with-popping-cork",
+    "tags": [
+      ":bottle-with-popping-cork:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f377",
+    "name": "wine-glass",
+    "tags": [
+      ":wine-glass:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1fad7",
+    "name": "pour",
+    "tags": [
+      ":pour:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f379",
+    "name": "tropical-drink",
+    "tags": [
+      ":tropical-drink:"
+    ],
+    "category": "Food and drink"
+  },
+  {
+    "codepoint": "1f6a7",
+    "name": "construction",
+    "tags": [
+      ":construction:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f6a8",
+    "name": "police-car-light",
+    "tags": [
+      ":police-car-light:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f6b2",
+    "name": "bicycle",
+    "tags": [
+      ":bicycle:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f697",
+    "name": "automobile",
+    "tags": [
+      ":automobile:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f3ce_fe0f",
+    "name": "racing-car",
+    "tags": [
+      ":racing-car:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f695",
+    "name": "taxi",
+    "tags": [
+      ":taxi:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f68c",
+    "name": "bus",
+    "tags": [
+      ":bus:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "26f5",
+    "name": "sailboat",
+    "tags": [
+      ":sailboat:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f6f6",
+    "name": "canoe",
+    "tags": [
+      ":canoe:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f6f8",
+    "name": "flying-saucer",
+    "tags": [
+      ":flying-saucer:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f680",
+    "name": "rocket",
+    "tags": [
+      ":rocket:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f6eb",
+    "name": "airplane-departure",
+    "tags": [
+      ":airplane-departure:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f6ec",
+    "name": "airplane-arrival",
+    "tags": [
+      ":airplane-arrival:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f3a2",
+    "name": "roller-coaster",
+    "tags": [
+      ":roller-coaster:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f3a1",
+    "name": "ferris-wheel",
+    "tags": [
+      ":ferris-wheel:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f3d5_fe0f",
+    "name": "camping",
+    "tags": [
+      ":camping:"
+    ],
+    "category": "Travel and places"
+  },
+  {
+    "codepoint": "1f388",
+    "name": "balloon",
+    "tags": [
+      ":balloon:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f382",
+    "name": "birthday-cake",
+    "tags": [
+      ":birthday-cake:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f381",
+    "name": "wrapped-gift",
+    "tags": [
+      ":wrapped-gift:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f386",
+    "name": "fireworks",
+    "tags": [
+      ":fireworks:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fa85",
+    "name": "piñata",
+    "tags": [
+      ":piñata:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1faa9",
+    "name": "mirror-ball",
+    "tags": [
+      ":mirror-ball:",
+      ":disco-ball:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f947",
+    "name": "gold-medal",
+    "tags": [
+      ":gold-medal:",
+      ":1st-place-medal:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f948",
+    "name": "silver-medal",
+    "tags": [
+      ":silver-medal:",
+      ":2nd-place-medal:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f949",
+    "name": "bronze-medal",
+    "tags": [
+      ":bronze-medal:",
+      ":3rd-place-medal:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3c6",
+    "name": "trophy",
+    "tags": [
+      ":trophy:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "26bd",
+    "name": "soccer-ball",
+    "tags": [
+      ":soccer-ball:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "26be",
+    "name": "baseball",
+    "tags": [
+      ":baseball:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f94e",
+    "name": "softball",
+    "tags": [
+      ":softball:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3be",
+    "name": "tennis",
+    "tags": [
+      ":tennis:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3f8",
+    "name": "badminton",
+    "tags": [
+      ":badminton:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f94d",
+    "name": "lacrosse",
+    "tags": [
+      ":lacrosse:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3cf",
+    "name": "cricket-game",
+    "tags": [
+      ":cricket-game:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3d1",
+    "name": "field-hockey",
+    "tags": [
+      ":field-hockey:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3d2",
+    "name": "ice-hockey",
+    "tags": [
+      ":ice-hockey:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "26f8_fe0f",
+    "name": "ice-skate",
+    "tags": [
+      ":ice-skate:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f6fc",
+    "name": "roller-skates",
+    "tags": [
+      ":roller-skates:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fa70",
+    "name": "ballet-shoes",
+    "tags": [
+      ":ballet-shoes:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f6f9",
+    "name": "skateboard",
+    "tags": [
+      ":skateboard:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "26f3",
+    "name": "flag-in-hole",
+    "tags": [
+      ":flag-in-hole:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3af",
+    "name": "direct-hit",
+    "tags": [
+      ":direct-hit:",
+      ":target:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f94f",
+    "name": "flying-disc",
+    "tags": [
+      ":flying-disc:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fa83",
+    "name": "boomerang",
+    "tags": [
+      ":boomerang:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fa81",
+    "name": "kite",
+    "tags": [
+      ":kite:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3a3",
+    "name": "fishing-pole",
+    "tags": [
+      ":fishing-pole:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f94b",
+    "name": "martial-arts-uniform",
+    "tags": [
+      ":martial-arts-uniform:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3b1",
+    "name": "8-ball",
+    "tags": [
+      ":8-ball:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3d3",
+    "name": "ping-pong",
+    "tags": [
+      ":ping-pong:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3b3",
+    "name": "bowling",
+    "tags": [
+      ":bowling:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3b2",
+    "name": "die",
+    "tags": [
+      ":die:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3b0",
+    "name": "slot-machine",
+    "tags": [
+      ":slot-machine:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fa84",
+    "name": "wand",
+    "tags": [
+      ":wand:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f4f8",
+    "name": "camera-flash",
+    "tags": [
+      ":camera-flash:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fadf",
+    "name": "splatter",
+    "tags": [
+      ":splatter:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3b7",
+    "name": "saxophone",
+    "tags": [
+      ":saxophone:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3ba",
+    "name": "trumpet",
+    "tags": [
+      ":trumpet:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3bb",
+    "name": "violin",
+    "tags": [
+      ":violin:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fa89",
+    "name": "harp",
+    "tags": [
+      ":harp:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f941",
+    "name": "drum",
+    "tags": [
+      ":drum:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1fa87",
+    "name": "maracas",
+    "tags": [
+      ":maracas:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f3ac",
+    "name": "clapper",
+    "tags": [
+      ":clapper:"
+    ],
+    "category": "Activities and events"
+  },
+  {
+    "codepoint": "1f50b",
+    "name": "battery-full",
+    "tags": [
+      ":battery-full:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1faab",
+    "name": "battery-low",
+    "tags": [
+      ":battery-low:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1fa99",
+    "name": "coin",
+    "tags": [
+      ":coin:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f4b8",
+    "name": "money-with-wings",
+    "tags": [
+      ":money-with-wings:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f48e",
+    "name": "gem-stone",
+    "tags": [
+      ":gem-stone:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "2696_fe0f",
+    "name": "balance-scale",
+    "tags": [
+      ":balance-scale:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f4a1",
+    "name": "light-bulb",
+    "tags": [
+      ":light-bulb:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f393",
+    "name": "graduation-cap",
+    "tags": [
+      ":graduation-cap:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f48d",
+    "name": "ring",
+    "tags": [
+      ":ring:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1faad",
+    "name": "fan",
+    "tags": [
+      ":fan:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "2602_fe0f",
+    "name": "umbrella",
+    "tags": [
+      ":umbrella:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1fa8f",
+    "name": "shovel",
+    "tags": [
+      ":shovel:",
+      ":dig:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "2699_fe0f",
+    "name": "gear",
+    "tags": [
+      ":gear:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "26d3_fe0f_200d_1f4a5",
+    "name": "broken-chain",
+    "tags": [
+      ":broken-chain:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "270f_fe0f",
+    "name": "pencil",
+    "tags": [
+      ":pencil:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "23f0",
+    "name": "alarm-clock",
+    "tags": [
+      ":alarm-clock:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f6ce_fe0f",
+    "name": "bellhop-bell",
+    "tags": [
+      ":bellhop-bell:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f514",
+    "name": "bell",
+    "tags": [
+      ":bell:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f52e",
+    "name": "crystal-ball",
+    "tags": [
+      ":crystal-ball:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f4a3",
+    "name": "bomb",
+    "tags": [
+      ":bomb:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1faa4",
+    "name": "mouse-trap",
+    "tags": [
+      ":mouse-trap:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "1f512",
+    "name": "locked",
+    "tags": [
+      ":locked:"
+    ],
+    "category": "Objects"
+  },
+  {
+    "codepoint": "2648",
+    "name": "Aries",
+    "tags": [
+      ":Aries:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2649",
+    "name": "Taurus",
+    "tags": [
+      ":Taurus:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "264a",
+    "name": "Gemini",
+    "tags": [
+      ":Gemini:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "264b",
+    "name": "Cancer",
+    "tags": [
+      ":Cancer:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "264c",
+    "name": "Leo",
+    "tags": [
+      ":Leo:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "264d",
+    "name": "Virgo",
+    "tags": [
+      ":Virgo:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "264e",
+    "name": "Libra",
+    "tags": [
+      ":Libra:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "264f",
+    "name": "Scorpio",
+    "tags": [
+      ":Scorpio:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2650",
+    "name": "Sagittarius",
+    "tags": [
+      ":Sagittarius:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2651",
+    "name": "Capricorn",
+    "tags": [
+      ":Capricorn:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2652",
+    "name": "Aquarius",
+    "tags": [
+      ":Aquarius:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2653",
+    "name": "Pisces",
+    "tags": [
+      ":Pisces:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "26ce",
+    "name": "Ophiuchus",
+    "tags": [
+      ":Ophiuchus:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2757",
+    "name": "exclamation",
+    "tags": [
+      ":exclamation:",
+      ":exclamation-mark:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2753",
+    "name": "question",
+    "tags": [
+      ":question:",
+      ":question-mark:",
+      ":?:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2049_fe0f",
+    "name": "exclamation-question-mark",
+    "tags": [
+      ":exclamation-question-mark:",
+      ":!?:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "203c_fe0f",
+    "name": "exclamation-double",
+    "tags": [
+      ":exclamation-double:",
+      ":!!:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "274c",
+    "name": "cross-mark",
+    "tags": [
+      ":cross-mark:",
+      ":x:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f198",
+    "name": "sos",
+    "tags": [
+      ":sos:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f4f4",
+    "name": "phone-off",
+    "tags": [
+      ":phone-off:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2622_fe0f",
+    "name": "radioactive",
+    "tags": [
+      ":radioactive:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2623_fe0f",
+    "name": "biohazard",
+    "tags": [
+      ":biohazard:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "26a0_fe0f",
+    "name": "warning",
+    "tags": [
+      ":warning:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2705",
+    "name": "check-mark",
+    "tags": [
+      ":check-mark:",
+      ":check-mark-green:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f195",
+    "name": "new",
+    "tags": [
+      ":new:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f193",
+    "name": "free",
+    "tags": [
+      ":free:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f199",
+    "name": "up!",
+    "tags": [
+      ":up!:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f192",
+    "name": "cool",
+    "tags": [
+      ":cool:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f6ae",
+    "name": "litter",
+    "tags": [
+      ":litter:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "262e_fe0f",
+    "name": "peace-symbol",
+    "tags": [
+      ":peace-symbol:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "262f_fe0f",
+    "name": "yin-yang",
+    "tags": [
+      ":yin-yang:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "267e_fe0f",
+    "name": "infinity",
+    "tags": [
+      ":infinity:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f3b6",
+    "name": "musical-notes",
+    "tags": [
+      ":musical-notes:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "2795",
+    "name": "plus-sign",
+    "tags": [
+      ":plus-sign:",
+      ":+:"
+    ],
+    "category": "Symbols"
+  },
+  {
+    "codepoint": "1f3c1",
+    "name": "chequered-flag",
+    "tags": [
+      ":chequered-flag:"
+    ],
+    "category": "Flags"
+  },
+  {
+    "codepoint": "1f6a9",
+    "name": "triangular-flag",
+    "tags": [
+      ":triangular-flag:"
+    ],
+    "category": "Flags"
+  },
+  {
+    "codepoint": "1f3f4",
+    "name": "black-flag",
+    "tags": [
+      ":black-flag:"
+    ],
+    "category": "Flags"
+  },
+  {
+    "codepoint": "1f3f3_fe0f",
+    "name": "white-flag",
+    "tags": [
+      ":white-flag:"
+    ],
+    "category": "Flags"
+  }
+]
