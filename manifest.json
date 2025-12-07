@@ -7,8 +7,8 @@
   "github": "https://github.com/Pol-Valentin/emoji-memory",
   "thumbnail": "assets/thumbnail.png",
   "descriptions": {
-    "en_US": "A fun memory matching game using animated emojis from Google Noto. Match pairs of animated emoji cards on your Stream Deck!",
-    "fr_FR": "Un jeu de memory amusant utilisant des emojis animes de Google Noto. Associez les paires de cartes emoji sur votre Stream Deck!"
+    "en_US": "A fun memory matching game using animated emojis from Google Noto. Match pairs of animated emoji cards on your Stream Deck! Long press on the score display to exit.",
+    "fr_FR": "Un jeu de memory amusant utilisant des emojis animes de Google Noto. Associez les paires de cartes emoji sur votre Stream Deck! Appui long sur le score pour quitter."
   },
   "short-descriptions": {
     "en_US": "Memory game with animated emojis",
